@@ -5,6 +5,7 @@ Topics Covered:
 - Basic SQL
 - Relational DB and Tables
 - Functions, Multiple Tables, Sub-queries
+- SQLite
 - Accessing Databases w/ Python(DB API & SQL Magic)
 - IBM db2
 
